@@ -1,0 +1,1 @@
+sequelize model:generate --name StageEvent --attributes "stage_id:integer, stage_events_id:integer, event_id:integer" --force true
